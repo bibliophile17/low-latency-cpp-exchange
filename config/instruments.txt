@@ -1,0 +1,10 @@
+# Default instrument symbol list used by `exchange --server`, `exchange
+# --replay`, and `exchange --record` when --symbols is not passed on the
+# command line.
+#
+# One symbol per line. Purely synthetic/illustrative tickers -- this
+# project does not connect to any real market or use any real market's
+# symbology.
+AAPL
+MSFT
+GOOG

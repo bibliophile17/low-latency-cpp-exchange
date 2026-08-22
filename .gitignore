@@ -1,0 +1,8 @@
+build/
+build-*/
+*.o
+*.bin
+*.png
+perf.data*
+cachegrind.out.*
+compile_commands.json
