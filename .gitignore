@@ -6,3 +6,5 @@ build-*/
 perf.data*
 cachegrind.out.*
 compile_commands.json
+
+docs/build/
